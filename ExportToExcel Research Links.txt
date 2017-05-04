@@ -1,0 +1,15 @@
+http://www.etechplanet.com/blog/export-sharepoint-list-to-excel-spreadsheet-programmatically-using-c.aspx
+
+https://www.codeproject.com/Articles/406704/Export-DataTable-to-Excel-with-Formatting-in-Cshar
+
+http://stackoverflow.com/questions/8207869/how-to-export-datatable-to-excel
+
+http://www.dotnetlearners.com/blogs/view/244/Export-Datatable-or-Dataset-data-to-excel-using-EPPlus-in-aspnet-and-c-.aspx
+
+
+https://www.codeproject.com/Tips/344604/Export-to-EXCEL-from-Datatable-in-Csharp-Net
+
+https://www.experts-exchange.com/questions/21863773/The-name-%27response%27-does-not-exist-in-the-current-context.html#a16766560
+
+
+http://mikesknowledgebase.com/pages/CSharp/ExportToExcel.htm
